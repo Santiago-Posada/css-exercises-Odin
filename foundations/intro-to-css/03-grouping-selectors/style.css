@@ -4,5 +4,14 @@
     
     color: white;
     background-color: black;
+
    
+}
+.button-2{
+    background-color: yellow;
+}
+.button-1,
+.button-2{
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
 }
